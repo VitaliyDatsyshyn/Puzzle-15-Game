@@ -1,0 +1,28 @@
+#sizeBarDiv {
+    width: 100%;
+    font-size: 1.3em;
+    margin-left: 15%;
+}
+
+
+table {
+    margin-left: 15%;
+    margin-top: 50px;
+    width: auto;
+    min-height: 100px;
+    padding: 10px;
+    border: 5px solid silver;
+    background-color: #eeeeee;
+    text-align: center;
+}
+
+tr {
+    height: 50px;
+}
+
+td {
+    width: 50px;
+    border: 2px solid silver;
+    cursor: pointer;
+    font-size: 1.4em;
+}
